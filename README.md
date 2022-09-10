@@ -20,6 +20,8 @@
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
+<!--<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="400" height="400" />-->
+
 <br>
 
 <p><i> I'm Pankaj Baviskar a graduate student of Bachelor's of Computer Application from Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon. I'm a Tech Enthusiast, data analyst, frontend-developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
