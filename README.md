@@ -1,3 +1,5 @@
+<align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=0DC8BA&size=29&multiline=true&width=700&lines=Welcome+To+The+Pankaj+Baviskar+Github+Profile)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Pankaj Baviskar</h1>
 <h3 align="center">A passionate Data Analyst and Front-end Developer.</h3>
 
