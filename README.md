@@ -63,12 +63,20 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp; 
 </p>
-<br>
 
 <h2 align="center">📊 Github Statistics </h2>
 </p><p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Baviskar&theme=material-palenight" /></p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Baviskar&theme=android-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF"/></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Baviskar&theme=android-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Baviskar&theme=merko&show_icons=true)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-baviskar" alt="pankaj-baviskar" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/pankaj_22kar" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_22kar?logo=twitter&style=for-the-badge" alt="pankaj_22kar" /></a> </p>
+
+<br>
 
 ### ✨ OpenSource Communities:
 - [GitHub Campus Experts](https://github.com/campus-experts), a community for student leaders in tech
@@ -78,7 +86,9 @@
 - [nhcommunity](https://github.com/nhcommunity), a safe space to explore code
 
 <br><br>
-        
+
+
+
 <p align = "center">
   <a href="https://github.com/Pankaj-Baviskar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Baviskar&show_icons=true&hide=stars&theme=radical">
@@ -88,12 +98,6 @@
   </a>
 </p>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-baviskar" alt="pankaj-baviskar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pankaj_22kar" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_22kar?logo=twitter&style=for-the-badge" alt="pankaj_22kar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://pankajbaviskar.me/](https://pankajbaviskar.me/)
 
