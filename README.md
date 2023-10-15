@@ -5,8 +5,8 @@
   </a>
 </h1>
 
-<!--<h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/pankajbaviskar/" target="_blank"> Pankaj Baviskar </a></h1> -->
-<h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height="30px" width="30px">, I'm <a href="https://www.linkedin.com/in/pankajbaviskar/" target="_blank">Pankaj Baviskar</a></h1>
+<h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/pankajbaviskar/" target="_blank"> Pankaj Baviskar </a></h1>
+
 
 
 <h3 align="center">A young passionate 👩🏻‍💻 Data Analyst, Frontend-developer from India 🇮🇳</h3>
