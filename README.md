@@ -28,15 +28,15 @@
 
 <br>
 
-<p><i> I'm Pankaj Baviskar a graduate student of Bachelor's of Computer Application from Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon. I'm a Tech Enthusiast, data analyst, frontend-developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Pankaj Baviskar a graduate student of Bachelor's of Computer Application from Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon. And final-year MCA Student at KJ's Educational Institutes Trinity Academy of Engineering, Pune. Enthusiastic and talented Computer Science graduate with hands-on experience in software development using C#, Core Java, Angular, HTML, CSS, and MySQL. Seeking a challenging position as a Junior Software Developer to apply my skills and contribute to the success of the organization. Passionate about continuous learning and adopting cutting-edge technologies.</i></p>
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 📃 My Resume as of August 2022 - <a href = "https://pankajbaviskar.me/assests/Resume.pdf">Resume</a>
-- ⚡ Check out my Portfolio Website <a href = "https://pankajbaviskar.me/">Here</a>
+- 📃 My Resume as of August 2024 - <a href = "https://pankaj-baviskar.github.io/Portfolio-Pankaj-Baviskar/assests/Pankaj_Baviskar_Resume.pdf)">Resume</a> 
+- ⚡ Check out my Portfolio Website <a href = "https://pankaj-baviskar.github.io/Portfolio-Pankaj-Baviskar">Here</a>
 - 📝 I sometimes write articles on <a href = "https://pankajbaviskar.hashnode.dev/">Hashnode</a>
-- 🌱 I’m currently learning React & Data Structures and Algorithms (DSA) ✌️
-- 🔭 I’m currently working on Frontend projects 🤯
+- 🌱 I’m currently learning leading technologies & Data Structures and Algorithms (DSA) ✌️
+- 🔭 I’m currently working on Backend Projects 🤯
 - 👯 I’m looking to collaborate More on Real World Problems and OpenSource 🙂
 - 💬 Ask me about Tech stuff, if I know I am happy to help 😊
 - 😄 Pronouns **<code>He/Him</code>**
@@ -50,25 +50,24 @@
   <!--<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;--> 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <!--<img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />&nbsp;&nbsp;-->
-  <!--<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;-->
-  <!--<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;-->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=aspnet&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </p>
+
 
 <h2 align="center">📊 Github Statistics </h2>
 </p><p align="center">
