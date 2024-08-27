@@ -32,7 +32,7 @@
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 📃 My Resume as of August 2024 - <a href = "https://pankaj-baviskar.github.io/Portfolio-Pankaj-Baviskar/assests/Pankaj_Baviskar_Resume.pdf)">Resume</a> 
+- 📃 My Resume as of August 2024 - <a href = "https://pankaj-baviskar.github.io/Portfolio-Pankaj-Baviskar/assests/Pankaj_Baviskar_Resume.pdf">Resume</a> 
 - ⚡ Check out my Portfolio Website <a href = "https://pankaj-baviskar.github.io/Portfolio-Pankaj-Baviskar">Here</a>
 - 📝 I sometimes write articles on <a href = "https://pankajbaviskar.hashnode.dev/">Hashnode</a>
 - 🌱 I’m currently learning leading technologies & Data Structures and Algorithms (DSA) ✌️
