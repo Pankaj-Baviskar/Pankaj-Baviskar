@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">A young passionate 👩🏻‍💻 Data Analyst, Frontend-developer from India 🇮🇳</h3>
+<h3 align="center">A young passionate 👩🏻‍💻 FullStack-developer from India 🇮🇳</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-baviskar&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-baviskar" /> </p>-->
 
